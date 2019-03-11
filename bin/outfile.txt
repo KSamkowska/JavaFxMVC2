@@ -1,0 +1,7 @@
+Anna Duda 2 8 9
+Barbara NowakDuda 3 8 10
+Irmina Lewandowska 4 17 20
+Adam Król 2 8 11
+Henryk Niewiadomski 5 10 15
+Janina Nowak 6 6 12
+Jan Kowalski 1 9 17

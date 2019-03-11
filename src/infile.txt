@@ -1,0 +1,10 @@
+Jan Kowalski 1 9 17
+Henryk Niewiadomski 2 8 15
+Janina Nowak 3 6 12
+Irmina Lewandowska 4 9 17
+Tytus Zoo 5 9 17
+Jan Kowalski 6 8 15
+Henryk Niewiadomski 7 10 15
+Janina nowak 8 14 20
+Irmina Lewandowska 100 17 20
+Tytus Zoo 101 10 12

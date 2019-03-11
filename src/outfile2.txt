@@ -1,0 +1,7 @@
+Anna Duda 2 8 9  czas pracy : 1
+Barbara NowakDuda 3 8 10  czas pracy : 2
+Irmina Lewandowska 4 17 20  czas pracy : 3
+Adam Król 2 8 11  czas pracy : 3
+Henryk Niewiadomski 5 10 15  czas pracy : 5
+Janina Nowak 6 6 12  czas pracy : 6
+Jan Kowalski 1 9 17  czas pracy : 8
